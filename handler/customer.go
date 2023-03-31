@@ -41,5 +41,3 @@ func (c customerHandler) GetCustomers(f *fiber.Ctx) error {
 		"error": nil,
 	})
 }
-
-// ex
